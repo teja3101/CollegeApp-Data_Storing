@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "admin@123",
+      "role": "admin",
+      "id": "1vP6C95DasQ"
+    },
+    {
+      "name": "Neha Patil",
+      "email": "neha@example.com",
+      "password": "neha@123",
+      "role": "faculty",
+      "id": "I23bxtCijmo"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "prn": "2025001",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "m1": 85,
+      "m2": 90,
+      "m3": 88
+    },
+    {
+      "prn": "2025001",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "m1": 85,
+      "m2": 90,
+      "m3": 88,
+      "id": "pAPVnepxmOM"
+    },
+    {
+      "prn": "2025002",
+      "name": "Neha Sharma",
+      "email": "neha.patil@example.com",
+      "m1": "86",
+      "m2": 82,
+      "m3": "90",
+      "id": "XbG6Bc0kmao"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
